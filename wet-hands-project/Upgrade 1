@@ -1,0 +1,3 @@
+Decided to have an Arduino controlled logic for the project with LCD display to show the "wet hands" message.
+Opened VS Code and installed PlatformIO and wrote a code for LED with a delay of 500s.
+Surfed a bit and found out that Arduino UNO library can be installed from sites such as engineering projects(note: sign up to get the link for zip folder)
