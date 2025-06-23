@@ -1,0 +1,4 @@
+ contains basic LED blink setup 
+Useful for:-
+i.ensuring if Arduino Library has been loaded and the .hex file works accordingly
+ii.developing optimum plans to satisfy the notifications part
