@@ -1,4 +1,11 @@
- contains basic LED blink setup 
-Useful for:-
-i.ensuring if Arduino Library has been loaded and the .hex file works accordingly
-ii.developing optimum plans to satisfy the notifications part
+ #include <Arduino.h>
+void setup(){pinMode(LED_BUILTIN, OUTPUT);}
+void loop(){
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500);
+}
+
+
+ 
